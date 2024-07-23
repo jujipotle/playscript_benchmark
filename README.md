@@ -7,7 +7,7 @@
 - emotion_metris.csv: Emotion metrics on generated_playscripts_edited.csv
 
 ## representation-engineering/
-- git clone https://github.com/andyzoujm/representation-engineering.git to get this directory
+- git clone https://github.com/andyzoujm/representation-engineering.git to get this directory. Follow their installation instructions.
 - data/emotions/ is used to train emotion classifier
 - examples/primary_emotions/emotion_concept.ipynb is used as reference code to write measure_emotions.ipynb
 
