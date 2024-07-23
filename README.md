@@ -1,25 +1,37 @@
-# Directory roadmap:
+# Directory Roadmap
 
-## data/
-- train_premises.csv, test_premises.csv, example_playscripts.csv: ChatGPT generated data to prompt Llama with
-- generated_playscripts.csv: Playscripts generated from Llama model on test_premises.csv
-- generated_playscripts_edited.csv: Cleaned version of generated_playscripts.csv
-- emotion_metris.csv: Emotion metrics on generated_playscripts_edited.csv
+#### `data/`
+Contains datasets and generated playscripts.
+- `generic_emotion/`: The first dataset created, with prompts that are more diverse but potentially force the model to generate text with a certain emotion. The prompting is done with no control over the resulting emotion.
+  - `train_premises.csv`, `test_premises.csv`: ChatGPT generated data to prompt Llama with.
+  - `example_playscripts.csv`: Example playscripts for multi-shot prompting.
+  - `generated_playscripts.csv`: Playscripts generated from Llama model based on `test_premises.csv`.
+  - `generated_playscripts_edited.csv`: Cleaned version of `generated_playscripts.csv`.
+  - `emotion_metrics.csv`: 
+- `controlled_emotion/`: The second dataset created, with more open-ended prompts. The prompting can be done with control over Alice and Bob's emotions, independent of each other.
+  - `test_premises.csv`: ChatGPT generated prompts that are more open-ended.
+  - `example_playscripts.csv`: Example playscripts from ChatGPT.
+  - `generated_playscripts.csv`: Playscripts generated from gpt-4o-mini-2024-07-18.
 
-## representation-engineering/
-- git clone https://github.com/andyzoujm/representation-engineering.git to get this directory. Follow their installation instructions.
-- data/emotions/ is used to train emotion classifier
-- examples/primary_emotions/emotion_concept.ipynb is used as reference code to write measure_emotions.ipynb
+#### `representation-engineering/`
+Contains code and resources for emotion classification.
+- **Setup:**
+  - Clone the repository: `git clone https://github.com/andyzoujm/representation-engineering.git`
+  - Follow the installation instructions provided in the repository.
+- **Important Subdirectories:**
+  - `data/emotions/`: Used to train the emotion classifier.
+  - `examples/primary_emotions/`: Contains example Jupyter notebooks.
+    - `emotion_concept.ipynb`: Reference code for writing `measure_emotions.ipynb`.
 
-## scripts/
-1. Run generate_playscripts.ipynb to generate playscripts from test_premises.csv (Can skip this, generated_playscripts.csv already populated)
-2. Run measure_emotions.ipynb to measure emotions in the generated playscripts (Can skip this, emotion_metrics.csv already populated)
-3. Run playscript_emotion_analytics.ipynb to analyze the emotion metrics of the generated playscripts
+#### `scripts/`
+Scripts for generating playscripts and analyzing emotion metrics.
+- **Notebooks:**
+  1. `generate_playscripts.ipynb`: Generates playscripts from `test_premises.csv`. This step can be skipped if `generated_playscripts.csv` is already populated. Playscripts can be generated with generic_emotion (open-ended generation) or controlled_emotion (ground-truth emotions for Alice and Bob).
+  2. `measure_emotions.ipynb`: Measures emotions in the generated playscripts. This step can be skipped if `emotion_metrics.csv` is already populated.
+  3. `playscript_emotion_analytics.ipynb`: Analyzes the emotion metrics of the generated playscripts.
 
-# Notes:
-- generate_playscripts.ipynb handles most edge cases of generated playscripts. For example, it filters through lines that don't start with "Alice: "
- or "Bob: " and throws an error if the wrong character is speaking. There are sometimes still errors, so I manually edit and save to generated_playscripts_edited.csv.
-- measure_emotions.ipynb uses a PCA approach to find directions that separate each of the emotions. Training data is from representation-engineering/data/emotions.
-One thing I noticed while playing around with the emotion classifier is that strictly classifying positive scores=presence of emotion, negative scores=absence of emotion 
-does NOT classify the training data the best. Fortunately our intended experiment only cares about delta (change in emotion score), so we can mostly ignore the
- classification accuracy issue.
+### Additional Notes
+- **Handling of Generated Playscripts:**
+  - `generate_playscripts.ipynb` accounts for edge cases, such as filtering lines not starting with "Alice: " or "Bob: ". Errors are manually corrected and saved in `generated_playscripts_edited.csv`.
+- **Emotion Measurement:**
+  - `measure_emotions.ipynb` by employs a PCA approach to identify directions that separate each of the emotions. Other options in the representation engineering paper are cluster means and logistic regression, but I haven't tested their code yet.
