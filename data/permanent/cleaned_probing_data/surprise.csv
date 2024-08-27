@@ -1,0 +1,201 @@
+probing_dataset,emotion,text_example
+custom,surprise,There’s a new bakery down the street? I didn’t see any signs!,None
+custom,surprise,"I found a handwritten note from the previous homeowner, hidden behind a drawer.",None
+custom,surprise,I had no idea they offered free language classes at the community center!,None
+custom,surprise,I can’t believe they have a dog park here now! It used to be just an empty lot.,None
+custom,surprise,"He published a novel, he never mentioned he was writing one.",None
+custom,surprise,"My parents adopted a baby girl, I had no idea they were planning to expand the family.",None
+custom,surprise,I can’t believe they serve sushi here now! It used to be just a pizza place.,None
+custom,surprise,"Wait, you’re running for city council? I thought you hated politics!",None
+custom,surprise,I can’t believe they offer dance lessons here! I always thought it was just a café.,None
+custom,surprise,My reserved coworker just announced she’s moving to Paris to pursue her art career; I didn’t even know she painted.,None
+custom,surprise,I can’t believe my friend is moving to Australia; she always said she’d never leave the city.,None
+custom,surprise,"She organized a surprise reunion, I didn’t even know she was in touch with everyone.",None
+custom,surprise,"He adopted three dogs, I always thought he was more of a cat person.",None
+custom,surprise,I can’t believe they installed a bike lane on this street!,None
+custom,surprise,"The local news station featured my neighbor’s garden, I had no idea it was that impressive.",None
+custom,surprise,"I found my childhood toy collection in the attic, I thought it was long gone.",None
+custom,surprise,Are you serious? I thought you were afraid of heights!,None
+custom,surprise,My old friend just told me he’s running for political office; I never saw him as the type.,None
+custom,surprise,"He suddenly took up baking and brought homemade bread to the office, he never cooked before.",None
+custom,surprise,"Wait, you’re getting married? I didn’t even know you were dating someone!",None
+custom,surprise,Are you serious? I thought you hated traveling!,None
+custom,surprise,"My old guitar teacher just showed up at my gig tonight, I haven’t seen him in years!",None
+custom,surprise,Are you serious? I thought you were allergic to cats!,None
+custom,surprise,"My introverted colleague launched a highly successful fashion line, and now she’s getting interviewed in the news!",None
+custom,surprise,"The local theater is showing indie films now, it used to be all mainstream.",None
+custom,surprise,I can’t believe they renovated the entire park!,None
+custom,surprise,"I received a package from a distant relative I’ve never met, it’s a box of family heirlooms.",None
+custom,surprise,"My aunt started a successful online craft store, she was always so technologically challenged.",None
+custom,surprise,"My old college buddy sent me an invitation to his art gallery opening, I didn’t even know he was into painting.",None
+custom,surprise,I had no idea you liked hiking! You always seemed more of an indoor person.,None
+custom,surprise,Are you serious? I thought you were moving to another city!,None
+custom,surprise,"My old school bully is now a motivational speaker, his story is so inspiring.",None
+custom,surprise,There’s a new music festival next month? I didn’t hear about that!,None
+custom,surprise,"The new neighbor has a pet peacock, I would never have guessed.",None
+custom,surprise,"I received a postcard from Antarctica, I don’t know anyone who’s been there.",None
+custom,surprise,My old roommate is now a successful architect and designed the new city skyline.,None
+custom,surprise,"The corner store now offers a full-service juice bar, I thought they only sold groceries.",None
+custom,surprise,"My childhood pen pal, whom I hadn’t heard from in years, just invited me to his wedding in Italy next month.",None
+custom,surprise,"My aunt, who always disliked travel, just returned from a year-long world tour.",None
+custom,surprise,"They transformed the old factory into a trendy market, it used to be abandoned.",None
+custom,surprise,"My childhood friend is now a professional race car driver, he never mentioned his passion for cars.",None
+custom,surprise,"My parents are going on a spontaneous trip to Japan, they’ve never traveled spontaneously before.",None
+custom,surprise,"My shy cousin is now a stand-up comedian, and he’s performing at major venues.",None
+custom,surprise,There’s a new restaurant by the river? I didn’t hear about that!,None
+custom,surprise,"She’s learning to play the saxophone, I always thought she preferred classical instruments.",None
+custom,surprise,My best friend just told me she’s writing a book; I had no idea she was interested in storytelling.,None
+custom,surprise,Are you serious? I thought you didn’t like cold weather!,None
+custom,surprise,"He took a year off to travel the world, he always seemed like a homebody.",None
+custom,surprise,The local grocery store started selling exotic fruits I’ve never seen before.,None
+custom,surprise,"I can’t believe my aunt, who’s always been afraid of heights, just went skydiving.",None
+custom,surprise,I can’t believe they have a craft fair every weekend!,None
+custom,surprise,Are you serious? I thought you were a vegetarian!,None
+custom,surprise,I can’t believe my neighbor is a professional photographer; she always seemed so low-key.,None
+custom,surprise,"I found out that our new neighbor, who always seems so composed, was once a professional skateboarder with numerous championships under his belt.",None
+custom,surprise,"He started painting landscapes, despite always being into abstract art.",None
+custom,surprise,My childhood friend is now a marine biologist and has been on several oceanic expeditions.,None
+custom,surprise,"The high school now has a competitive e-sports team, times have really changed.",None
+custom,surprise,I can’t believe they have a book swap event every month!,None
+custom,surprise,"My brother decided to run for city council, he never showed any interest in politics before.",None
+custom,surprise,My parents bought a motorcycle and are planning a cross-country road trip; they’ve never been the adventurous type.,None
+custom,surprise,My brother just told me he’s getting a tattoo; he always seemed so against them.,None
+custom,surprise,There’s a new art studio in town? I completely missed that news!,None
+custom,surprise,The new intern fixed the system glitch that’s been bothering us for months.,None
+custom,surprise,"My brother, who was always so shy, just got a lead role in a community theater production.",None
+custom,surprise,"My brother joined a competitive fishing team, he used to hate the water.",None
+custom,surprise,There’s a new ice cream shop around the corner? I had no idea!,None
+custom,surprise,"My childhood friend, who was always quiet and shy, is now a renowned public speaker and author of multiple bestsellers.",None
+custom,surprise,"My cousin, who always hated the beach, just bought a house on the coast.",None
+custom,surprise,My childhood friend just opened a vegan restaurant; she used to be a huge meat lover.,None
+custom,surprise,"They installed a massive sculpture garden in the city park, it’s incredibly beautiful.",None
+custom,surprise,I had no idea you were a history buff! You always seemed more into science fiction.,None
+custom,surprise,There’s a community play next month? I didn’t hear about that!,None
+custom,surprise,"Wait, you’re taking dance lessons? I thought you had two left feet!",None
+custom,surprise,My childhood babysitter is now a renowned chef with her own restaurant.,None
+custom,surprise,"My best friend, who always swore she would never marry, just announced her engagement to a childhood sweetheart.",None
+custom,surprise,There’s a new art exhibit at the museum? I didn’t see any advertisements!,None
+custom,surprise,My coworker just told me she’s running a marathon; she never mentioned liking to run.,None
+custom,surprise,There’s a film festival this weekend? I completely missed that news!,None
+custom,surprise,"The historic courthouse downtown is now a lively farmer’s market every Saturday, complete with live music and fresh produce.",None
+custom,surprise,My old high school teacher just published a novel that’s become a bestseller; I never knew she could write like that.,None
+custom,surprise,I had no idea they offered cooking classes at the library!,None
+custom,surprise,My sister just told me she’s taking up painting; I never knew she had an interest in art.,None
+custom,surprise,"I discovered my university library has a secret underground study lounge, it’s like something out of a novel.",None
+custom,surprise,Are you serious? I thought you didn’t like pets!,None
+custom,surprise,I can’t believe my cousin is studying to be a pilot; she always seemed so grounded.,None
+custom,surprise,There’s a pop-up art gallery downtown? I had no idea!,None
+custom,surprise,"My sister, who never showed any interest in sports, just completed her first triathlon.",None
+custom,surprise,"My best friend started a podcast about local history, and it’s getting a lot of attention.",None
+custom,surprise,My best friend from childhood is now a renowned wildlife photographer.,None
+custom,surprise,"My sister, who usually prefers quiet weekends, organized a massive charity run.",None
+custom,surprise,I discovered a secret room behind the bookcase in our old family home.,None
+custom,surprise,I can’t believe my coworker speaks five languages fluently; he never mentioned it before.,None
+custom,surprise,I can’t believe they serve breakfast all day now! This place used to close early.,None
+custom,surprise,My aunt started a book club that’s now one of the largest in the city.,None
+custom,surprise,"She moved to an island and started a surfing school, she used to be terrified of the ocean.",None
+custom,surprise,"My cousin, who never left our hometown, just moved to Paris for a new job.",None
+custom,surprise,"The local zoo has a new section for nocturnal animals, I didn’t know they were expanding.",None
+custom,surprise,The old bus depot has been transformed into a trendy food hall featuring international cuisine from around the world.,None
+custom,surprise,"They’re hosting the annual conference in our small town this year, it’s usually in the big city.",None
+custom,surprise,I had no idea you were so into gardening! You always seemed more tech-focused.,None
+custom,surprise,I can’t believe my parents are learning to scuba dive; they’ve never been adventurous.,None
+custom,surprise,I can’t believe they opened a new gym here! It used to be an old warehouse.,None
+custom,surprise,They’re already sold out of tickets for the event? I was sure there’d be plenty left.,None
+custom,surprise,My parents just bought a camper van to travel around the country; I never thought they’d leave home.,None
+custom,surprise,My best friend from elementary school is now a famous travel blogger.,None
+custom,surprise,I found out the park ranger used to be a world-class chef.,None
+custom,surprise,I can’t believe my aunt just adopted a baby; she always seemed so independent.,None
+custom,surprise,"The café that was always so quiet during the week now hosts weekend salsa dancing classes, transforming the entire atmosphere.",None
+custom,surprise,My quiet colleague just told me he’s a competitive chess player; he never mentioned it before.,None
+custom,surprise,I can’t believe my sister has a secret YouTube channel with thousands of subscribers; she always seemed so private.,None
+custom,surprise,"The pet store now offers a pet adoption café, it used to just sell supplies.",None
+custom,surprise,The city’s old water tower has been converted into a unique observation deck offering panoramic views of the skyline.,None
+custom,surprise,"The post office is hosting a stamp collecting club, it’s quite the niche activity.",None
+custom,surprise,I had no idea you were learning to play the violin! You always talked about piano.,None
+custom,surprise,My quiet classmate from high school is now a famous documentary filmmaker whose work has been showcased at international festivals.,None
+custom,surprise,I can’t believe my friend is moving to Italy to study fashion design; she always dressed so plainly.,None
+custom,surprise,The old train station has been transformed into a chic café with live music nights.,None
+custom,surprise,I never expected to see you at a yoga class!,None
+custom,surprise,I can’t believe my high school friend just became a yoga instructor; he was always so stiff.,None
+custom,surprise,"The town hall now has a rooftop garden, it used to be just an office building.",None
+custom,surprise,"Wait, really? I thought you hated spicy food!",None
+custom,surprise,"Wait, you’re getting a new car? I thought you loved your old one!",None
+custom,surprise,I can’t believe they turned the parking lot into a garden!,None
+custom,surprise,I can’t believe my cousin is opening a boutique; she always seemed uninterested in fashion.,None
+custom,surprise,"My quiet neighbor is actually an award-winning author, I found her books online.",None
+custom,surprise,"The once rundown motel on the outskirts of town is now a chic boutique hotel, attracting tourists from far and wide.",None
+custom,surprise,I can’t believe my aunt started her own tech company; she used to struggle with her smartphone.,None
+custom,surprise,My coworker just told me she’s getting married in Hawaii; I didn’t even know she was engaged.,None
+custom,surprise,I had no idea they were offering dance lessons at the gym!,None
+custom,surprise,There’s a new library opening? I completely missed that!,None
+custom,surprise,Are you serious? I thought you didn’t like to cook!,None
+custom,surprise,"Wait, you’re learning to play the piano? I thought you didn’t like music!",None
+custom,surprise,"They turned the old post office into a trendy coworking space, it was empty for years.",None
+custom,surprise,"The school now has a robotics club, I remember when it didn’t even have a computer lab.",None
+custom,surprise,I discovered my favorite coffee shop also offers language classes in the evenings.,None
+custom,surprise,"The animal shelter started a yoga with puppies program, that’s a creative twist.",None
+custom,surprise,There’s a book club at the café? I had no idea!,None
+custom,surprise,I found out our mailman is also a talented jazz musician with a regular gig in the city.,None
+custom,surprise,"My old soccer coach is now a bestselling author, his books are everywhere.",None
+custom,surprise,There’s a pop-up shop in the mall this weekend? I completely missed that!,None
+custom,surprise,I can’t believe they turned the old warehouse into an art gallery!,None
+custom,surprise,"My childhood friend started a successful tech startup, he was always the artist in our group.",None
+custom,surprise,"The local museum now has a virtual reality exhibit, which is quite a leap from their usual displays.",None
+custom,surprise,I can’t believe my neighbor is a professional dancer; he always seemed so stiff.,None
+custom,surprise,"The mechanic who fixed my car is also a classical pianist, I saw his performance on YouTube.",None
+custom,surprise,You managed to book a table at that exclusive restaurant? I thought it was impossible to get in.,None
+custom,surprise,There’s a new hiking trail nearby? I didn’t see any signs!,None
+custom,surprise,I found a time capsule in the backyard from the previous owners.,None
+custom,surprise,There’s a new dog café downtown? I completely missed that!,None
+custom,surprise,"My college professor is a famous playwright, I saw his latest play in a major theater.",None
+custom,surprise,"They renovated the entire library over the weekend, it looks like a completely different place now.",None
+custom,surprise,I can’t believe my boss is a black belt in karate; she never mentioned it at work.,None
+custom,surprise,"Wait, you’re writing a book? I thought you were just into reading them!",None
+custom,surprise,"My college roommate is now an astronaut, he’ll be going to space next year.",None
+custom,surprise,"The local cinema now serves gourmet meals during the movies, it’s such a unique experience.",None
+custom,surprise,"She volunteered to lead the project, she usually avoids the spotlight.",None
+custom,surprise,"The small grocery store down the street now features a section dedicated to exotic spices, which I never would have expected in our town.",None
+custom,surprise,"The concert tickets sold out within minutes, I thought I had plenty of time to buy them.",None
+custom,surprise,"My introverted friend hosted a big party last night, that’s so out of character for her.",None
+custom,surprise,"Wait, you’re going back to school? I thought you were done with studying!",None
+custom,surprise,"The park installed a new water slide, it used to be just a simple playground.",None
+custom,surprise,"Wait, you’re hosting a podcast? I thought you were too busy!",None
+custom,surprise,I discovered a hidden talent show happening every Friday night at the community center.,None
+custom,surprise,"They converted the old mill into a luxury apartment complex, it used to be so run-down.",None
+custom,surprise,I had no idea you were an artist! You always seemed so focused on your day job.,None
+custom,surprise,"They opened a gourmet food truck park in the industrial area, it’s such an unexpected place for it.",None
+custom,surprise,"My colleague, who always seemed so serious, is actually a talented stand-up comedian.",None
+custom,surprise,"My neighbor, who always seemed so serious, is now performing stand-up comedy on weekends.",None
+custom,surprise,"They’re offering a free shuttle service to the train station now, that’s a pleasant change.",None
+custom,surprise,"Wait, you’re learning to code? I thought you were into arts!",None
+custom,surprise,"The bakery on the corner now has a late-night menu, I thought they only served breakfast.",None
+custom,surprise,I can’t believe they’ve started a weekly farmers’ market here!,None
+custom,surprise,I received a letter from an old pen pal I hadn’t heard from in decades.,None
+custom,surprise,I can’t believe my neighbor is a gourmet chef; I always thought he was just a regular cook.,None
+custom,surprise,I can’t believe my parents are taking salsa dancing lessons; they always seemed so reserved.,None
+custom,surprise,I had no idea they started offering yoga classes at the library!,None
+custom,surprise,My sister just announced she’s moving to Japan; she never mentioned having an interest in traveling.,None
+custom,surprise,"I walked into the office today and everyone was wearing costumes, there was no memo about it!",None
+custom,surprise,"Wait, you’re starting your own business? I thought you were happy at your job!",None
+custom,surprise,"My retired grandmother just published a cookbook, and it’s been very well-received.",None
+custom,surprise,"The local high school, which never had much of a music program, now boasts an award-winning jazz band that performs across the state.",None
+custom,surprise,There’s a farmers’ market every Thursday? I had no idea!,None
+custom,surprise,"My cousin, who always hated the cold, moved to Alaska for a new job.",None
+custom,surprise,I can’t believe they turned the old factory into a shopping center!,None
+custom,surprise,"My aunt, who never liked pets, just adopted a rescued greyhound.",None
+custom,surprise,I can’t believe my cousin is moving to New York City; she always loved the countryside.,None
+custom,surprise,My quiet neighbor just told me he’s been climbing mountains all over the world; I had no idea he was such an adventurer.,None
+custom,surprise,"The fitness center added a rooftop pool, I had no idea they were expanding.",None
+custom,surprise,"My colleague brought in her collection of vintage cameras, I never knew she was a photographer.",None
+custom,surprise,"My sister, who never liked the outdoors, is now an avid hiker and mountain climber.",None
+custom,surprise,"My best friend’s hobby is now competitive drone racing, he used to be all about board games.",None
+custom,surprise,Are you serious? I thought you hated cooking!,None
+custom,surprise,I had no idea they turned the old school into a community center!,None
+custom,surprise,I can’t believe my brother is training for a marathon; he used to hate running with a passion.,None
+custom,surprise,I had no idea you were interested in astronomy! You never mentioned it before.,None
+custom,surprise,"The old theater downtown is now hosting live magic shows, it’s such a fun twist.",None
+custom,surprise,I found out our family doctor is also a professional ballroom dancer.,None
+custom,surprise,There’s a new cinema opening soon? I had no idea!,None
+custom,surprise,"My introverted friend is now a travel guide, leading tours in exotic locations.",None
+custom,surprise,Are you serious? I thought you didn’t like crowds!,None

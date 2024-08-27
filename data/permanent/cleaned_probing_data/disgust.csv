@@ -1,0 +1,201 @@
+probing_dataset,emotion,text_example
+custom,disgust,I can't believe people still leave dirty dishes in the sink overnight; it's revolting.,None
+custom,disgust,"The smell of that perfume is overwhelming, like someone spilled an entire bottle on themselves.",None
+custom,disgust,I don't get how anyone can enjoy those greasy fast-food burgers; they just look so unappetizing.,None
+custom,disgust,Did you see how he just sneezed into his hand and then touched everything? It's disgusting.,None
+custom,disgust,The idea of eating anything with so many preservatives makes my stomach turn.,None
+custom,disgust,Watching people pick their teeth at the table is just something I can't tolerate.,None
+custom,disgust,That sweater she wore looked like it hadn't been washed in weeks; it was so gross.,None
+custom,disgust,The way they leave their laundry all over the place is just unacceptable.,None
+custom,disgust,I can't believe some people let their kids run around barefoot in public places; it's so unsanitary.,None
+custom,disgust,The thought of swimming in that murky pond makes my skin crawl.,None
+custom,disgust,"Every time I walk past that bakery, the smell of burnt bread is nauseating.",None
+custom,disgust,It's so disturbing to see people chewing with their mouths open; it's like watching a train wreck.,None
+custom,disgust,I can't fathom why anyone would keep such a messy car; there were wrappers and crumbs everywhere.,None
+custom,disgust,The sight of that moldy bread just sitting on the counter was enough to ruin my appetite.,None
+custom,disgust,I can't understand why some people leave the bathroom without washing their hands; it's appalling.,None
+custom,disgust,The texture of overcooked vegetables is so off-putting; they feel like mush in your mouth.,None
+custom,disgust,I find it hard to be around people who don't cover their mouths when they cough; it's just common courtesy.,None
+custom,disgust,That abandoned house was filled with cobwebs and dust; it was like walking into a horror movie.,None
+custom,disgust,The idea of sharing a drink with someone who backwashes is repulsive to me.,None
+custom,disgust,The sight of all those greasy fingerprints on the screen makes me cringe.,None
+custom,disgust,I can't believe some people think it's okay to leave their toenail clippings on the coffee table.,None
+custom,disgust,"The way that room smelled, like stale cigarettes and sweat, was unbearable.",None
+custom,disgust,I have no idea how anyone can eat blue cheese; it just smells so rancid.,None
+custom,disgust,"I can't stand when people let their kids eat with their hands, smearing food everywhere.",None
+custom,disgust,That dish looked like it was covered in a layer of oil; I lost my appetite immediately.,None
+custom,disgust,I don't understand why anyone would wear the same socks for days on end; it's just gross.,None
+custom,disgust,The sight of that overgrown toenail was enough to make me want to look away.,None
+custom,disgust,The smell coming from that dumpster behind the restaurant was enough to make me gag.,None
+custom,disgust,I can't believe some people don't change their sheets regularly; it's so unhygienic.,None
+custom,disgust,The thought of eating food that has been sitting out all day makes me queasy.,None
+custom,disgust,Watching people double-dip at a party is something I can't handle.,None
+custom,disgust,I can't understand why someone would let their pet sleep in their bed; it's just not clean.,None
+custom,disgust,The idea of using a communal bar of soap in a public restroom is revolting to me.,None
+custom,disgust,I can't believe some people think it's okay to not clean up after their pets; it's just inconsiderate.,None
+custom,disgust,"The way those shoes looked, all scuffed and dirty, was really off-putting.",None
+custom,disgust,I can't stand the sight of overflowing trash cans; it's so unsightly and gross.,None
+custom,disgust,The texture of that gelatin dessert is something I can't get past; it feels like slime.,None
+custom,disgust,I don't get how anyone can drink milk that's been sitting out; it's just not right.,None
+custom,disgust,The sight of all those flies buzzing around the food was enough to make me lose my appetite.,None
+custom,disgust,I can't believe some people don't rinse their dishes before putting them in the dishwasher.,None
+custom,disgust,"The thought of wearing someone else's shoes, even for a minute, grosses me out.",None
+custom,disgust,I can't stand when people use their phones in the bathroom; it's just unhygienic.,None
+custom,disgust,"The smell of that locker room was overpowering, like a mix of sweat and mildew.",None
+custom,disgust,I find it hard to be around people who don't brush their teeth regularly; it's just unpleasant.,None
+custom,disgust,"The idea of eating anything with a slimy texture, like oysters, makes me shudder.",None
+custom,disgust,I can't believe some people leave their food uncovered in the fridge; it's just asking for trouble.,None
+custom,disgust,"The sight of that dirty, unwashed hair was really hard to look at.",None
+custom,disgust,I can't fathom why anyone would leave half-eaten food in their bedroom; it's just a breeding ground for pests.,None
+custom,disgust,The idea of drinking from a communal water fountain after seeing someone spit into it makes me feel ill.,None
+custom,disgust,I don't get how people can wear the same clothes two days in a row without washing them; it's so unhygienic.,None
+custom,disgust,"The way that dog was licking the baby's face, and then the baby put its hands in its mouth, was so hard to watch.",None
+custom,disgust,Seeing someone floss their teeth in public and then flick the residue everywhere is something I can't tolerate.,None
+custom,disgust,I can't understand why some people let their dirty dishes pile up until they have no clean ones left.,None
+custom,disgust,"The thought of sleeping on a mattress without a protective cover, knowing what might be lurking inside, makes my skin crawl.",None
+custom,disgust,Watching someone handle raw chicken and then touch everything in the kitchen without washing their hands is just alarming.,None
+custom,disgust,The sight of that public restroom with toilet paper strewn everywhere and unflushed toilets was deeply unsettling.,None
+custom,disgust,I can't believe people think it's okay to let their dogs drink from public water fountains.,None
+custom,disgust,"The smell of that person's breath, after they ate a garlic-heavy meal and didn't brush, was unbearable.",None
+custom,disgust,Seeing someone clip their toenails on public transportation is just something I can't handle.,None
+custom,disgust,"I can't understand how people can enjoy those slimy, canned vegetables; they look so unappetizing.",None
+custom,disgust,The thought of using a hotel bedspread that never gets washed grosses me out.,None
+custom,disgust,The way that raw meat was left out on the counter for hours made me lose my appetite.,None
+custom,disgust,I can't believe people think it's acceptable to not clean their ears regularly.,None
+custom,disgust,"The sight of that refrigerator, filled with expired food and moldy leftovers, was nauseating.",None
+custom,disgust,Watching someone blow their nose and then use the same tissue to wipe their hands is something I can't stand.,None
+custom,disgust,"The idea of sharing a towel with someone else, even if it's been washed, is something I can't fathom.",None
+custom,disgust,Seeing someone scratch their dandruff-filled scalp and then touch food is deeply off-putting.,None
+custom,disgust,I can't understand why anyone would leave their dirty laundry all over the floor for days.,None
+custom,disgust,"The smell of that person's gym clothes, which they obviously hadn't washed in a week, was overwhelming.",None
+custom,disgust,"The sight of those dirty, yellowing pillowcases made me question if they ever get changed.",None
+custom,disgust,I can't believe people don't rinse their fruits and vegetables before eating them; it's just not safe.,None
+custom,disgust,Watching someone lick their fingers after eating and then touch everything is something I can't tolerate.,None
+custom,disgust,"The thought of using someone else's makeup, especially mascara, makes me cringe.",None
+custom,disgust,"Seeing those dirty, chipped nails while someone is handling food is really unsettling.",None
+custom,disgust,I can't stand when people let their kids eat food that's fallen on the ground; it's just not hygienic.,None
+custom,disgust,The smell coming from that garbage disposal was enough to make me gag.,None
+custom,disgust,Watching someone sneeze into the air without covering their mouth is something I can't handle.,None
+custom,disgust,I can't understand how people can let their pets sit on the kitchen counters; it's so unsanitary.,None
+custom,disgust,The thought of eating something that has been dropped on a public floor makes my skin crawl.,None
+custom,disgust,Seeing someone scratch their scalp and then continue cooking without washing their hands is just unacceptable.,None
+custom,disgust,I can't believe people think it's okay to not change their bed linens regularly.,None
+custom,disgust,The smell of those unwashed clothes that had been worn multiple times was overpowering.,None
+custom,disgust,Watching someone chew with their mouth open and talk at the same time is something I can't tolerate.,None
+custom,disgust,"The idea of using a shared sponge in the kitchen, knowing it harbors so many germs, is really off-putting.",None
+custom,disgust,Seeing someone pick at their skin and then touch communal items is just unsettling.,None
+custom,disgust,I can't understand why anyone would let their pet's litter box get so full before cleaning it.,None
+custom,disgust,The thought of drinking from a cup that hasn't been properly washed makes my stomach turn.,None
+custom,disgust,Watching someone dig in their ear and then touch their face is something I can't stand.,None
+custom,disgust,"The smell of that person's hair, which clearly hadn't been washed in days, was hard to ignore.",None
+custom,disgust,"Seeing those dirty, unwashed windows, streaked with grime and fingerprints, was deeply unsettling.",None
+custom,disgust,I can't believe people think it's acceptable to not clean their bathrooms regularly.,None
+custom,disgust,The sight of those crumbs and spills all over the kitchen counters made me lose my appetite.,None
+custom,disgust,Watching someone spit on the sidewalk and then keep walking is something I can't tolerate.,None
+custom,disgust,"The idea of using a friend's bath towel, even if it's been washed, grosses me out.",None
+custom,disgust,Seeing someone handle money and then immediately touch their food is deeply off-putting.,None
+custom,disgust,"I can't understand why anyone would leave their shoes on in the house, tracking dirt everywhere.",None
+custom,disgust,The smell of that mildew-infested shower curtain was enough to make me want to leave immediately.,None
+custom,disgust,"I can't believe people leave their gym bags in the trunk for days, letting the sweaty clothes fester in the heat.",None
+custom,disgust,Watching someone dip their fingers into communal food and lick them afterwards makes me lose my appetite.,None
+custom,disgust,The idea of sitting on a public bench where dogs have likely relieved themselves is something I can't handle.,None
+custom,disgust,I can't stand seeing people with visibly dirty nails handling food at a restaurant.,None
+custom,disgust,Watching someone use the same cloth to wipe the counter and the floor is really unsettling.,None
+custom,disgust,I can't fathom how anyone can sleep in a room filled with so much dust and clutter.,None
+custom,disgust,"The thought of using someone else's toothbrush, even just once, makes my skin crawl.",None
+custom,disgust,"Seeing those dirty, smelly shoes left in the hallway makes me want to hold my breath.",None
+custom,disgust,I can't understand why people think it's okay to eat food that's been sitting out all day at a picnic.,None
+custom,disgust,The way people let their pets lick their plates clean before washing them is something I can't tolerate.,None
+custom,disgust,The idea of sharing a bed with someone who doesn't shower regularly is deeply off-putting.,None
+custom,disgust,Watching someone scratch their head and then touch a shared computer keyboard is really hard to watch.,None
+custom,disgust,The sight of mold growing in the shower corners makes me question the cleanliness of the whole house.,None
+custom,disgust,I can't believe people don't replace their kitchen sponges regularly; they're bacteria havens.,None
+custom,disgust,Seeing someone double-dip into a shared dip at a party is enough to make me avoid it completely.,None
+custom,disgust,The way people leave hair all over the bathroom sink and don't clean it up is something I can't handle.,None
+custom,disgust,The thought of using a public restroom without paper seat covers makes my stomach turn.,None
+custom,disgust,I can't understand why some people let their pets sleep in their beds without regular baths.,None
+custom,disgust,Watching someone handle raw meat and then touch the fridge handle without washing their hands is something I can't tolerate.,None
+custom,disgust,"The idea of wearing someone else's sweaty gym clothes, even if they're washed, is deeply unsettling.",None
+custom,disgust,Seeing a bathroom with a layer of dust on every surface makes me want to leave immediately.,None
+custom,disgust,The way people leave wet towels on the floor for days is something I can't understand.,None
+custom,disgust,The thought of eating food prepared on a cutting board that hasn't been properly sanitized makes me cringe.,None
+custom,disgust,The idea of using communal gym equipment without wiping it down first is really off-putting.,None
+custom,disgust,I can't believe people think it's okay to leave dirty dishes in the sink for days.,None
+custom,disgust,The sight of pet hair covering every surface in someone's house makes me want to avoid sitting anywhere.,None
+custom,disgust,Watching someone chew with their mouth open and food falling out is really unsettling.,None
+custom,disgust,The way people leave trash and food wrappers in their cars for weeks is something I can't handle.,None
+custom,disgust,The thought of drinking from a bottle someone else has backwashed into makes my stomach turn.,None
+custom,disgust,I can't understand how people can let their homes get so cluttered and messy.,None
+custom,disgust,The sight of grease and grime buildup on the kitchen stove is deeply off-putting.,None
+custom,disgust,Watching someone use a communal towel at the gym without knowing when it was last washed is something I can't tolerate.,None
+custom,disgust,"The idea of using someone else's personal grooming tools, like nail clippers or razors, makes my skin crawl.",None
+custom,disgust,Seeing someone pick their nose in public and then touch their face is really unsettling.,None
+custom,disgust,I can't believe people don't clean their bathrooms regularly; the buildup of grime is hard to ignore.,None
+custom,disgust,The way people let their kids eat off the floor at a public place is something I can't understand.,None
+custom,disgust,The thought of eating food that's been handled by someone with visibly dirty hands makes me lose my appetite.,None
+custom,disgust,"The idea of sharing a hairbrush with someone else, knowing it might have dandruff, is really off-putting.",None
+custom,disgust,Seeing someone use the same cutting board for raw meat and vegetables without washing it is unsettling.,None
+custom,disgust,I can't stand when people leave their pets' food dishes unwashed for days; it's so unhygienic.,None
+custom,disgust,"The sight of a filthy microwave, covered in splatters and spills, makes me want to avoid using it.",None
+custom,disgust,Watching someone spit on the ground in a public place is something I can't tolerate.,None
+custom,disgust,"The thought of using a friend's bedding, especially if it's not washed regularly, makes my stomach turn.",None
+custom,disgust,"I can't believe people let their children play in dirty, unsanitized ball pits at play areas.",None
+custom,disgust,"The way people leave old, rotting food in their refrigerators is something I can't handle.",None
+custom,disgust,I can't stand seeing people leave their wet towels bunched up on the bathroom floor for days; it’s just asking for mold to grow.,None
+custom,disgust,"The thought of using a friend's old, tattered bathrobe, which has clearly seen better days, makes my skin crawl.",None
+custom,disgust,Watching someone chew loudly with their mouth open while talking at the dinner table is something I can't tolerate.,None
+custom,disgust,I can't believe people let their kids eat snacks with dirty hands after playing outside all day.,None
+custom,disgust,"The sight of an overflowing trash can, with garbage spilling out onto the floor, is deeply unsettling.",None
+custom,disgust,I can't understand why some people leave their unwashed socks and underwear scattered around the house.,None
+custom,disgust,The idea of eating sushi from a questionable food truck makes my stomach turn.,None
+custom,disgust,The way people let their pets lick their faces right after eating is something I can't handle.,None
+custom,disgust,I can't believe some people don't wash their hair for weeks; the greasiness is hard to ignore.,None
+custom,disgust,"The thought of using a shared bath sponge, knowing it's probably full of bacteria, is really unsettling.",None
+custom,disgust,I can't stand when people let their dirty laundry pile up until it overflows from the hamper.,None
+custom,disgust,Watching someone use their phone in the bathroom and then touch it to their face is really hard to watch.,None
+custom,disgust,"The idea of drinking from a communal punch bowl at a party, knowing everyone has dipped their cups in it, is off-putting.",None
+custom,disgust,Seeing someone scratch their scalp and then continue eating is something I can't handle.,None
+custom,disgust,I can't believe people let their pets walk all over kitchen counters where food is prepared.,None
+custom,disgust,The sight of unflushed toilets in public restrooms is enough to make me want to hold it in.,None
+custom,disgust,Watching someone eat with their hands and then wipe them on their clothes is really unsettling.,None
+custom,disgust,"The idea of wearing someone else’s unwashed hat, knowing it might be full of sweat, is deeply off-putting.",None
+custom,disgust,"Seeing dirty dishes piled up in the sink, with food remnants still stuck on them, makes me lose my appetite.",None
+custom,disgust,I can't understand why people let their pets' fur cover their furniture without cleaning it up.,None
+custom,disgust,The thought of using a communal bar of soap at a public gym is something I can't handle.,None
+custom,disgust,Watching someone pick at their scabs and then touch communal objects is really unsettling.,None
+custom,disgust,I can't believe some people don't rinse their fruits and vegetables before eating them.,None
+custom,disgust,The sight of hair clogging the shower drain is enough to make me want to avoid using it.,None
+custom,disgust,"The idea of using a public hot tub, knowing it’s likely full of bacteria, makes my skin crawl.",None
+custom,disgust,Seeing someone spit on the sidewalk and then keep walking as if nothing happened is something I can't tolerate.,None
+custom,disgust,I can't understand why people don't clean their ovens regularly; the buildup of burnt food is hard to ignore.,None
+custom,disgust,The thought of eating at a restaurant where the kitchen is visibly dirty makes me lose my appetite.,None
+custom,disgust,Watching someone dig in their nose and then touch their phone is really unsettling.,None
+custom,disgust,I can't believe people think it's okay to leave their pets' waste in their yards for days.,None
+custom,disgust,The sight of those greasy fingerprints on the refrigerator door makes me cringe.,None
+custom,disgust,I can't understand why some people let their pets drink out of their water glasses.,None
+custom,disgust,The thought of sleeping on hotel bedding that isn’t frequently washed makes my skin crawl.,None
+custom,disgust,Watching someone handle raw meat and then touch the salt shaker without washing their hands is really hard to watch.,None
+custom,disgust,I can't stand when people don't clean their hairbrushes regularly; the buildup of hair is just gross.,None
+custom,disgust,The sight of someone with food stuck in their teeth while they talk is really off-putting.,None
+custom,disgust,I can't believe people think it's acceptable to let their pets sleep on their pillows.,None
+custom,disgust,The idea of using communal towels at the gym without knowing how often they’re washed makes my stomach turn.,None
+custom,disgust,Seeing someone sneeze into their hands and then touch door handles is something I can't tolerate.,None
+custom,disgust,I can't understand why people let their kitchen sponges get so dirty before replacing them.,None
+custom,disgust,The thought of drinking from a cup that has someone else's lipstick mark on it is really off-putting.,None
+custom,disgust,Watching someone use a communal nail clipper at a public place is really unsettling.,None
+custom,disgust,"The idea of wearing someone else's used, unwashed workout clothes makes my skin crawl.",None
+custom,disgust,"I can't believe people let their pets drink out of their toilets, then lick their faces as if it's perfectly normal.",None
+custom,disgust,"The sight of those grimy, unwashed windows covered in smudges and dirt makes me question the cleanliness of the entire house.",None
+custom,disgust,Watching someone cough into their hand and then use that same hand to serve food is really hard to watch.,None
+custom,disgust,The idea of eating off a plate that still has remnants of the previous meal stuck to it makes my stomach churn.,None
+custom,disgust,Seeing someone change a baby's diaper on the dining table and then use that same table for eating is really unsettling.,None
+custom,disgust,I can't understand how anyone can enjoy a meal in a kitchen where the garbage can is overflowing and emitting a foul odor.,None
+custom,disgust,The sight of a bathroom sink covered in dried toothpaste and hair makes me want to avoid using it altogether.,None
+custom,disgust,Watching someone handle raw fish and then immediately touch their face without washing their hands is something I can't handle.,None
+custom,disgust,"The idea of sharing a bath towel that hasn't been washed in weeks, especially after someone else used it, is really off-putting.",None
+custom,disgust,Seeing someone leave used tissues lying around the house instead of throwing them away immediately is deeply unsettling.,None
+custom,disgust,The way he constantly brags about his wealth is really off-putting.,None
+custom,disgust,The way some people treat waitstaff as if they’re beneath them is really disheartening.,None
+custom,disgust,It’s really unsettling how some politicians use smear campaigns to discredit opponents.,None
+custom,disgust,It’s disappointing how some businesses use aggressive upselling tactics on elderly customers.,None
+custom,disgust,It’s troubling how some media outlets sensationalize tragedies for ratings.,None

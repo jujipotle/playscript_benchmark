@@ -1,0 +1,201 @@
+probing_dataset,emotion,text_example
+custom,happiness,Seeing the kids play so joyfully in the park today really warmed my heart.,None
+custom,happiness,"The cake I baked turned out perfectly, and everyone loved it at the party!",None
+custom,happiness,Spending the weekend at the beach with friends was just what I needed.,None
+custom,happiness,"I finally finished that book I’ve been reading, and the ending was fantastic!",None
+custom,happiness,"We had a family reunion last weekend, and it was wonderful to catch up with everyone.",None
+custom,happiness,"I managed to hit a personal best on my run this morning, which felt incredible.",None
+custom,happiness,"My little niece took her first steps today, and we all cheered her on!",None
+custom,happiness,"The weather was perfect for a hike yesterday, and the views were breathtaking.",None
+custom,happiness,"My favorite band released a new album, and it’s been on repeat all day.",None
+custom,happiness,"We had such a fun game night last night, full of laughter and great memories.",None
+custom,happiness,"My best friend and I planned a spontaneous road trip, and it was such an adventure.",None
+custom,happiness,"I finally mastered that tricky yoga pose, and it feels so rewarding.",None
+custom,happiness,"I attended a workshop on painting, and I created something I’m really proud of.",None
+custom,happiness,Seeing the sunrise during my morning walk was a beautiful way to start the day.,None
+custom,happiness,The new coffee shop in town has the coziest atmosphere and the best lattes.,None
+custom,happiness,"We spent the afternoon flying kites, and it was such a joyous experience.",None
+custom,happiness,"My team won our soccer match, and the excitement was contagious.",None
+custom,happiness,"I volunteered at the animal shelter, and the puppies were absolutely adorable.",None
+custom,happiness,"I reconnected with an old friend, and we talked for hours like no time had passed.",None
+custom,happiness,"The local farmer’s market had the freshest produce, and I made a delicious salad.",None
+custom,happiness,"I watched a comedy show last night, and I haven’t laughed that hard in ages.",None
+custom,happiness,The new mural downtown is stunning and really brightens up the area.,None
+custom,happiness,"I planted a tree in the backyard, and it feels great to contribute to the environment.",None
+custom,happiness,"We had a picnic by the lake, and it was such a peaceful and happy afternoon.",None
+custom,happiness,"I finally organized my closet, and it feels so satisfying to see everything in order.",None
+custom,happiness,"My coworker brought homemade cookies to the office, and they were a delightful treat.",None
+custom,happiness,I spent the day exploring the city and discovered some charming little shops.,None
+custom,happiness,"My partner surprised me with a lovely handwritten note, which made my day.",None
+custom,happiness,"The neighborhood kids set up a lemonade stand, and their enthusiasm was contagious.",None
+custom,happiness,"I joined a dance class, and it’s been such a joyful way to stay active.",None
+custom,happiness,The sunset over the mountains was absolutely breathtaking last evening.,None
+custom,happiness,"I got to spend quality time with my grandparents, listening to their fascinating stories.",None
+custom,happiness,"We had a BBQ in the backyard, and it turned into an impromptu dance party.",None
+custom,happiness,"The community garden is flourishing, and it’s so fulfilling to see everyone’s hard work.",None
+custom,happiness,"My dog learned a new trick, and it was so much fun to watch her show it off.",None
+custom,happiness,"I attended a live concert, and the energy in the crowd was electrifying.",None
+custom,happiness,"My art class displayed our work, and it was wonderful to see everyone’s creativity.",None
+custom,happiness,"I found an old photo album, and it was delightful to reminisce about those memories.",None
+custom,happiness,"I tried ice skating for the first time, and it was an exhilarating experience.",None
+custom,happiness,The aroma of fresh bread baking in the oven filled the house with such a cozy feeling.,None
+custom,happiness,"We hosted a potluck dinner, and it was fantastic to taste everyone’s favorite dishes.",None
+custom,happiness,The annual fireworks show was spectacular and brought everyone together in awe.,None
+custom,happiness,"I spent the morning bird-watching, and the variety of species was incredible.",None
+custom,happiness,"I received a thoughtful letter from a friend, and it really touched my heart.",None
+custom,happiness,"The local theater put on a great play, and the performance was so engaging.",None
+custom,happiness,"I attended a yoga retreat, and it was the perfect way to relax and recharge.",None
+custom,happiness,"We had a family game night, and it was filled with laughter and friendly competition.",None
+custom,happiness,"I saw a double rainbow after the rainstorm, and it was such a magical moment.",None
+custom,happiness,"We spent the afternoon canoeing on the lake, and it was such a peaceful experience.",None
+custom,happiness,I found a quaint little bookshop that had all my favorite classics.,None
+custom,happiness,"My team finished the project ahead of schedule, and everyone was in high spirits.",None
+custom,happiness,"We spent the evening stargazing, and the night sky was incredibly clear.",None
+custom,happiness,"I joined a pottery class, and my first creation turned out better than I expected.",None
+custom,happiness,"We had a surprise birthday party for my friend, and she was genuinely touched.",None
+custom,happiness,I discovered a new hiking trail with stunning views of the valley.,None
+custom,happiness,"My garden is teeming with butterflies this summer, making it feel so lively.",None
+custom,happiness,"The local orchestra performed in the park, and it was such a delightful evening.",None
+custom,happiness,"I tried paddleboarding for the first time, and it was an exhilarating experience.",None
+custom,happiness,"We had a family movie night, and everyone enjoyed the film and popcorn.",None
+custom,happiness,"We went berry picking, and now we have a kitchen full of fresh fruit.",None
+custom,happiness,The new ice cream parlor in town has the most delicious flavors.,None
+custom,happiness,"My sister’s wedding was beautiful, and it was great to see everyone dancing and smiling.",None
+custom,happiness,"I took a scenic bike ride through the countryside, and the fresh air was invigorating.",None
+custom,happiness,The community fair had so many fun games and activities for everyone.,None
+custom,happiness,"I volunteered to help with a beach cleanup, and it felt great to see the difference we made.",None
+custom,happiness,"We went to a pumpkin patch, and picking out the perfect pumpkin was so much fun.",None
+custom,happiness,The jazz festival downtown had amazing performances and a vibrant atmosphere.,None
+custom,happiness,"I took a painting class, and creating art was such a relaxing experience.",None
+custom,happiness,"We hosted a potluck brunch, and everyone’s dishes were delicious.",None
+custom,happiness,The autumn leaves in the park created such a picturesque scene.,None
+custom,happiness,"I found the perfect gift for my friend’s birthday, and I can’t wait to see their reaction.",None
+custom,happiness,"The neighborhood kids put on a talent show, and their enthusiasm was infectious.",None
+custom,happiness,"I started learning a new language, and it’s exciting to make progress every day.",None
+custom,happiness,"We went on a hot air balloon ride, and the view from above was breathtaking.",None
+custom,happiness,I discovered a new favorite band at the music festival last weekend.,None
+custom,happiness,The local farmers’ market had the freshest produce and friendly vendors.,None
+custom,happiness,"We spent the afternoon building sandcastles at the beach, and it was a blast.",None
+custom,happiness,"I finally tried that new recipe, and it was a big hit at dinner.",None
+custom,happiness,"The annual charity run was a huge success, with lots of participants and support.",None
+custom,happiness,"I attended a mindfulness workshop, and it was incredibly refreshing.",None
+custom,happiness,The holiday lights in the neighborhood are so beautifully decorated this year.,None
+custom,happiness,"We had a spontaneous dance party in the living room, and everyone joined in.",None
+custom,happiness,"I found a cozy café that makes the best cappuccinos, and it’s my new favorite spot.",None
+custom,happiness,"We took a scenic train ride through the mountains, and the views were spectacular.",None
+custom,happiness,"The school play was fantastic, and the kids did an amazing job.",None
+custom,happiness,"I tried my hand at gardening, and seeing the first sprouts was so rewarding.",None
+custom,happiness,"The city marathon was inspiring to watch, with so many people achieving their goals.",None
+custom,happiness,"We spent the weekend camping in the forest, and the tranquility was wonderful.",None
+custom,happiness,"I learned how to knit, and making my first scarf was so satisfying.",None
+custom,happiness,"The book club meeting was engaging, and we had a great discussion about the novel.",None
+custom,happiness,"We visited a nearby winery, and the wine tasting was a delightful experience.",None
+custom,happiness,"The dog park was full of playful pups, and it was a joy to watch them run around.",None
+custom,happiness,"I organized a craft night with friends, and we all made some lovely decorations.",None
+custom,happiness,The new restaurant in town serves the most incredible pasta dishes.,None
+custom,happiness,"We took a scenic drive along the coast, and the ocean views were breathtaking.",None
+custom,happiness,"I attended a cooking class, and learning new techniques was so much fun.",None
+custom,happiness,"We spent the afternoon exploring a charming little village, and every corner had something new to discover.",None
+custom,happiness,I just finished a fantastic workout and feel so energized for the rest of the day.,None
+custom,happiness,"We had a spontaneous picnic by the river, and the sound of the water was so soothing.",None
+custom,happiness,The local art gallery had an exhibit of stunning photography that left me in awe.,None
+custom,happiness,"I spent the morning bird-watching, and I spotted so many beautiful species.",None
+custom,happiness,"We had a delightful brunch at a new café, and the atmosphere was perfect.",None
+custom,happiness,"I attended a workshop on sustainable living, and it was incredibly inspiring.",None
+custom,happiness,"We spent the day kayaking on the lake, and the water was so calm and clear.",None
+custom,happiness,"I tried making homemade pasta, and it turned out delicious.",None
+custom,happiness,"I discovered a new trail in the forest, and the walk was so refreshing.",None
+custom,happiness,"We had a family barbecue, and everyone brought their favorite dishes.",None
+custom,happiness,"I took a pottery class, and creating something with my hands was so rewarding.",None
+custom,happiness,"We spent the weekend at a cozy cabin in the mountains, surrounded by nature.",None
+custom,happiness,The spring festival was full of vibrant colors and lively performances.,None
+custom,happiness,"I attended a poetry reading, and the poems were so moving.",None
+custom,happiness,"We had a spontaneous karaoke night, and everyone sang their hearts out.",None
+custom,happiness,"I finally organized my bookshelf, and it feels so satisfying to see it all neat and tidy.",None
+custom,happiness,The city lights reflecting on the river were simply magical.,None
+custom,happiness,"We went apple picking, and now the house is filled with the sweet scent of apples.",None
+custom,happiness,"I tried a new yoga routine, and it left me feeling so balanced and centered.",None
+custom,happiness,"The neighborhood kids built a snowman, and it brought so much joy to see their excitement.",None
+custom,happiness,"We had a delightful dinner party with friends, and the conversation was so engaging.",None
+custom,happiness,The local theater group put on a wonderful performance of a classic play.,None
+custom,happiness,"We had a relaxing day at the spa, and it was the perfect way to unwind.",None
+custom,happiness,The farmer’s market had fresh flowers that brightened up the whole house.,None
+custom,happiness,"We spent the evening around a bonfire, sharing stories and roasting marshmallows.",None
+custom,happiness,"I finally finished that challenging puzzle, and it looks great framed on the wall.",None
+custom,happiness,"The community choir performed holiday carols, and it was such a heartwarming experience.",None
+custom,happiness,"We took a scenic boat ride, and the view of the city from the water was stunning.",None
+custom,happiness,"I found a new hobby in making handmade candles, and they turned out beautifully.",None
+custom,happiness,The harvest festival was full of fun activities and delicious food.,None
+custom,happiness,"I attended a dance workshop, and it was so much fun to learn new moves.",None
+custom,happiness,"We had a game night with friends, and the laughter was non-stop.",None
+custom,happiness,The botanical garden’s orchid display was breathtakingly beautiful.,None
+custom,happiness,"I tried my hand at painting, and creating something from scratch felt amazing.",None
+custom,happiness,"The local library hosted an author talk, and it was so inspiring to hear their story.",None
+custom,happiness,"We had a beach bonfire, and watching the waves under the stars was unforgettable.",None
+custom,happiness,"I took a scenic train ride through the countryside, and the views were so peaceful.",None
+custom,happiness,"We hosted a themed dinner party, and everyone got really into the spirit of it.",None
+custom,happiness,"The fall foliage was at its peak, creating a stunning tapestry of colors.",None
+custom,happiness,"I learned a new recipe from a cooking class, and it turned out to be a crowd favorite.",None
+custom,happiness,"We spent the day at an amusement park, and the rides were thrilling.",None
+custom,happiness,"I finally decluttered my workspace, and it feels so much more productive now.",None
+custom,happiness,The live jazz performance at the café was incredibly soulful and uplifting.,None
+custom,happiness,"We went on a road trip to explore new places, and the journey was full of surprises.",None
+custom,happiness,"I attended a calligraphy workshop, and practicing the art was so calming.",None
+custom,happiness,The first snowfall of the season turned the landscape into a winter wonderland.,None
+custom,happiness,We had a delightful morning picking strawberries at the local farm.,None
+custom,happiness,The new bakery in town makes the fluffiest croissants I’ve ever tasted.,None
+custom,happiness,"We spent the afternoon building a treehouse, and it turned out amazing.",None
+custom,happiness,"I attended a concert in the park, and the music was so uplifting.",None
+custom,happiness,The sunrise over the lake was the perfect start to my day.,None
+custom,happiness,We had a blast playing mini-golf with friends last night.,None
+custom,happiness,"I took a long bike ride through the countryside, and the scenery was breathtaking.",None
+custom,happiness,"We organized a neighborhood cleanup, and it felt great to see everyone pitching in.",None
+custom,happiness,"I finally completed my quilt, and it’s so cozy and colorful.",None
+custom,happiness,"The local coffee shop hosted a trivia night, and our team won!",None
+custom,happiness,"We went for a walk on the beach at sunset, and the colors were incredible.",None
+custom,happiness,"I attended a flower arranging class, and my bouquet turned out beautifully.",None
+custom,happiness,The community pool had a fun family day with games and music.,None
+custom,happiness,"We spent the weekend camping, and the night sky was full of stars.",None
+custom,happiness,"I tried a new recipe for homemade pizza, and it was a huge hit.",None
+custom,happiness,The bookstore had a signing event with my favorite author.,None
+custom,happiness,We had a cozy movie marathon with hot cocoa and blankets.,None
+custom,happiness,"I took up knitting, and my first scarf is coming along nicely.",None
+custom,happiness,"We had a spontaneous road trip, and every stop was a new adventure.",None
+custom,happiness,"The farmer’s market had live music, and it created such a cheerful atmosphere.",None
+custom,happiness,"I spent the day kayaking down the river, and the tranquility was amazing.",None
+custom,happiness,"We had a family reunion, and it was great to see everyone after so long.",None
+custom,happiness,The local library’s summer reading program is so engaging for the kids.,None
+custom,happiness,"We went ice skating, and the rink was beautifully decorated for the holidays.",None
+custom,happiness,The evening was perfect for a bonfire and storytelling.,None
+custom,happiness,"We had a fun day at the amusement park, and the roller coasters were thrilling.",None
+custom,happiness,"I took a cooking class, and now I can make the perfect souffle.",None
+custom,happiness,"We spent the afternoon playing board games, and the competition was fierce but fun.",None
+custom,happiness,"The cherry blossoms in the park are in full bloom, creating a picturesque scene.",None
+custom,happiness,I found a new podcast that’s both informative and entertaining.,None
+custom,happiness,"We went whale watching, and seeing the majestic creatures up close was awe-inspiring.",None
+custom,happiness,"I hosted a dinner party, and it was wonderful to catch up with old friends.",None
+custom,happiness,"The craft fair had so many unique handmade items, and I found some great gifts.",None
+custom,happiness,"We took a hot air balloon ride, and the view from above was stunning.",None
+custom,happiness,"I finally mastered baking the perfect loaf of bread, and it tastes incredible.",None
+custom,happiness,The kids’ soccer game was full of excitement and teamwork.,None
+custom,happiness,"We spent the day at the zoo, and the animals were fascinating to watch.",None
+custom,happiness,The outdoor movie night under the stars was such a charming experience.,None
+custom,happiness,"We went horseback riding through the trails, and the scenery was beautiful.",None
+custom,happiness,"I tried a pottery wheel for the first time, and making my own bowl was so satisfying.",None
+custom,happiness,The street fair had live performances and delicious food from all over the world.,None
+custom,happiness,"We spent the evening at a rooftop bar, enjoying the city lights and good company.",None
+custom,happiness,"I took a dance class, and learning new moves was so much fun.",None
+custom,happiness,The hiking trip to the waterfall was challenging but incredibly rewarding.,None
+custom,happiness,"We had a fun-filled day at the aquarium, exploring the marine life exhibits.",None
+custom,happiness,"I joined a local sports league, and the first game was exhilarating.",None
+custom,happiness,The weekend art festival showcased so much talent and creativity.,None
+custom,happiness,"We had a fantastic day snorkeling, and the coral reefs were teeming with colorful fish.",None
+custom,happiness,"I attended a pottery painting workshop, and my vase turned out beautifully.",None
+custom,happiness,"The local festival had a parade with floats, and it was such a vibrant display.",None
+custom,happiness,"We spent the morning paddleboarding, and it was such a serene experience.",None
+custom,happiness,"I finally visited the new museum exhibit, and the artwork was truly inspiring.",None
+custom,happiness,The community theater’s musical production was so entertaining and well-performed.,None
+custom,happiness,"We had a relaxing day at the hot springs, soaking in the warm water and enjoying the scenery.",None
+custom,happiness,"I took a photography walk around the city, capturing some stunning shots.",None
+custom,happiness,"We organized a fun run for charity, and the turnout was fantastic.",None
+custom,happiness,"I spent the day at a wildlife sanctuary, and the animals were fascinating to observe.",None

@@ -1,0 +1,201 @@
+probing_dataset,emotion,text_example
+custom,anger,You left the house in such a mess after the party and didn't even bother to clean up!,None
+custom,anger,How could they reject my application without even giving me a proper explanation?,None
+custom,anger,It's infuriating how our boss always takes credit for our hard work.,None
+custom,anger,I can't stand how they always interrupt me when I'm trying to make a point.,None
+custom,anger,Why do you always ignore my messages when I need a quick response?,None
+custom,anger,It's so annoying that they never follow the agreed-upon schedule.,None
+custom,anger,The fact that they completely disregarded my input is beyond frustrating.,None
+custom,anger,It's outrageous how they just dismissed my concerns like they didn't matter.,None
+custom,anger,Why do you keep borrowing my things without asking and then returning them damaged?,None
+custom,anger,It's maddening how they keep changing their minds at the last minute.,None
+custom,anger,I can't believe you just left me stranded without any explanation.,None
+custom,anger,It's so irritating that they always manage to get away with their bad behavior.,None
+custom,anger,Why did you think it was okay to go through my personal stuff without permission?,None
+custom,anger,I'm fed up with being treated like my opinions don't matter.,None
+custom,anger,It's so disrespectful how they never bother to show up on time.,None
+custom,anger,I can't believe you just ignored everything I said during that meeting.,None
+custom,anger,It's infuriating how they constantly lie and expect us to believe them.,None
+custom,anger,"Why do you always have to make everything about you, even when it's clearly not?",None
+custom,anger,Why do you keep making decisions without consulting me first?,None
+custom,anger,It's maddening how they refuse to take responsibility for their actions.,None
+custom,anger,It's infuriating how they never listen to any feedback.,None
+custom,anger,Why did you think it was a good idea to cancel our plans last minute?,None
+custom,anger,"It's so annoying that they always take the easy way out, leaving us to pick up the slack.",None
+custom,anger,It's outrageous how they just assume I'll be okay with their inconsiderate behavior.,None
+custom,anger,Why do you keep bringing up my past mistakes whenever we argue?,None
+custom,anger,It's so frustrating that they always undermine my authority in front of others.,None
+custom,anger,I can't believe you just let them walk all over you like that.,None
+custom,anger,It's maddening how they always play the victim and never admit their faults.,None
+custom,anger,Why do you keep making promises you know you can't keep?,None
+custom,anger,It's infuriating how they always seem to have an excuse for everything.,None
+custom,anger,I can't stand how you always manage to make me feel guilty for things that aren't my fault.,None
+custom,anger,It's so annoying that they never seem to take anything seriously.,None
+custom,anger,It's maddening how they always find a way to twist my words.,None
+custom,anger,I can't believe you just walked away in the middle of our conversation.,None
+custom,anger,It's infuriating how they always manage to shift the blame onto someone else.,None
+custom,anger,Why do you always make me repeat myself because you weren't listening the first time?,None
+custom,anger,It's so frustrating that they never follow through with their commitments.,None
+custom,anger,"I can't stand how you always have to be right, no matter the cost.",None
+custom,anger,It's outrageous how they completely ignored the guidelines we all agreed upon.,None
+custom,anger,Why do you keep bringing new people into the project without consulting the rest of the team?,None
+custom,anger,I can't believe you didn't even bother to show up when you knew how important it was to me.,None
+custom,anger,It's infuriating how they constantly contradict themselves and expect us to keep up.,None
+custom,anger,Why do you always undermine my efforts by making snide comments?,None
+custom,anger,I can't believe the landlord raised the rent again without any prior notice!,None
+custom,anger,It's ridiculous that our internet service keeps going down during the most important meetings.,None
+custom,anger,How could they release such a buggy update and expect us to be okay with it?,None
+custom,anger,"It's infuriating that the repair service didn't show up, even though they promised they would.",None
+custom,anger,I am so fed up with the constant noise from the construction next door.,None
+custom,anger,Why do they keep changing the project requirements without consulting anyone?,None
+custom,anger,I can't believe you let them speak to me that way without saying anything!,None
+custom,anger,It's maddening how customer service keeps transferring me from one department to another.,None
+custom,anger,Why do you never back me up when your friends make those rude comments?,None
+custom,anger,It's outrageous that the city still hasn't fixed the potholes on our street.,None
+custom,anger,I can't stand how they always take shortcuts and leave the rest of us to clean up the mess.,None
+custom,anger,Why did you think it was okay to borrow my car without asking and then return it with an empty tank?,None
+custom,anger,It's so annoying that they never give clear instructions and then blame us for not understanding.,None
+custom,anger,I can't believe you forgot to pick up the kids from school again!,None
+custom,anger,It's maddening that the package I've been waiting for is delayed yet again.,None
+custom,anger,Why do you always leave your dirty dishes in the sink for me to clean up?,None
+custom,anger,It's frustrating that they keep changing the deadlines and expect us to adjust instantly.,None
+custom,anger,I can't stand how you always downplay my achievements in front of others.,None
+custom,anger,It's outrageous that the event was canceled at the last minute with no explanation.,None
+custom,anger,Why do you keep interrupting me every time I try to explain something?,None
+custom,anger,It's infuriating how they disregard safety protocols and put everyone at risk.,None
+custom,anger,I can't believe you didn't tell me about the change in plans until the last minute.,None
+custom,anger,It's so annoying that the new software update has more bugs than the previous version.,None
+custom,anger,Why do you never take my suggestions seriously in team meetings?,None
+custom,anger,I can't stand how you always turn every small disagreement into a huge argument.,None
+custom,anger,It's frustrating that the store ran out of the item I specifically came for.,None
+custom,anger,Why did you think it was acceptable to leave your things all over the living room?,None
+custom,anger,It's infuriating that they cut funding for our project without any warning.,None
+custom,anger,I can't believe you invited people over without telling me first!,None
+custom,anger,It's outrageous that the refund process is taking so long for a mistake they made.,None
+custom,anger,Why do you always take your anger out on me when you're upset about something else?,None
+custom,anger,It's so annoying that they never give us enough time to complete our tasks properly.,None
+custom,anger,I can't stand how you always prioritize your friends over our plans.,None
+custom,anger,It's maddening that they lost my application and are making me start the process all over again.,None
+custom,anger,Why do you always leave your clothes lying around the house?,None
+custom,anger,It's frustrating that the office printer is always out of order when I need it most.,None
+custom,anger,I can't believe you didn't stand up for me when I was clearly being mistreated.,None
+custom,anger,It's infuriating how they always seem to get away with bending the rules.,None
+custom,anger,Why did you think it was a good idea to spend all our savings without consulting me?,None
+custom,anger,It's so annoying that the train is always late when I have an important appointment.,None
+custom,anger,"I can't stand how you never admit when you're wrong, even when it's obvious.",None
+custom,anger,It's maddening that the support team takes forever to respond to urgent issues.,None
+custom,anger,Why do you always assume I can handle everything on my own without offering help?,None
+custom,anger,It's frustrating that they keep moving the goalposts and expect us to keep up.,None
+custom,anger,I can't believe you agreed to something so important without discussing it with me first.,None
+custom,anger,It's infuriating that they never acknowledge the effort we put into these projects.,None
+custom,anger,Why do you always ignore the rules and expect there to be no consequences?,None
+custom,anger,How could they just cancel the event after all the effort we put into organizing it?,None
+custom,anger,It's maddening that the contractor didn't complete the job on time and left without any explanation.,None
+custom,anger,I can't believe you promised to help me and then didn't show up when I needed you.,None
+custom,anger,It's frustrating how the new policy was rolled out without any training or guidance.,None
+custom,anger,Why do you always change the subject when I'm trying to have a serious conversation?,None
+custom,anger,It's infuriating that the neighbor's dog barks all night and no one seems to care.,None
+custom,anger,I can't stand how they always make decisions without considering the impact on the rest of us.,None
+custom,anger,Why did you delete my files without asking me first?,None
+custom,anger,It's outrageous that they increased the workload without any additional compensation.,None
+custom,anger,I can't believe you didn't defend me when your friends were making fun of me.,None
+custom,anger,It's maddening that the software update caused more problems than it solved.,None
+custom,anger,Why do you always leave your projects unfinished and expect me to clean up the mess?,None
+custom,anger,It's frustrating that they never acknowledge the extra hours we put in.,None
+custom,anger,I can't stand how you always undermine my efforts in front of our colleagues.,None
+custom,anger,It's infuriating that the company's customer service is impossible to reach when there's an issue.,None
+custom,anger,Why did you think it was acceptable to spend money on something so frivolous?,None
+custom,anger,It's maddening how they constantly change the rules and expect us to keep up.,None
+custom,anger,It's frustrating that the committee didn't consider any of our suggestions.,None
+custom,anger,Why do you always criticize my ideas without giving them a chance?,None
+custom,anger,It's outrageous that the insurance company denied my claim without a valid reason.,None
+custom,anger,I can't stand how you always have an excuse for not following through on your promises.,None
+custom,anger,It's infuriating that the school keeps changing the curriculum without informing the parents.,None
+custom,anger,Why did you leave without saying goodbye when you knew how important this was to me?,None
+custom,anger,It's maddening that they never take my feedback seriously.,None
+custom,anger,I can't believe you didn't bother to read my email before asking questions.,None
+custom,anger,It's frustrating that the repair shop didn't fix the issue and now my car is worse off.,None
+custom,anger,Why do you always dismiss my concerns as if they don't matter?,None
+custom,anger,It's outrageous that the management team ignored our safety recommendations.,None
+custom,anger,It's infuriating that they postponed the deadline without any notice.,None
+custom,anger,Why did you decide to make plans without consulting me first?,None
+custom,anger,It's maddening that the delivery service lost my package and won't take responsibility.,None
+custom,anger,I can't believe you let the argument escalate in front of the kids.,None
+custom,anger,It's frustrating that the landlord won't fix the plumbing issues in our apartment.,None
+custom,anger,Why do you always assume I know what you're thinking without communicating clearly?,None
+custom,anger,It's outrageous that the utility company overcharged us and won't issue a refund.,None
+custom,anger,I can't stand how you always interrupt me when I'm trying to explain something.,None
+custom,anger,It's infuriating that they keep making empty promises and never deliver.,None
+custom,anger,Why did you think it was okay to share my personal information without asking?,None
+custom,anger,It's maddening how they never stick to the budget and expect us to cover the shortfall.,None
+custom,anger,I can't believe you didn't even try to understand my point of view.,None
+custom,anger,"It's frustrating that the office is always freezing, and no one does anything about it.",None
+custom,anger,It's outrageous that the store refused to honor the warranty on a defective product.,None
+custom,anger,"I can't stand how you always have to be right, even when you're clearly wrong.",None
+custom,anger,It's infuriating that they didn't provide any guidance on how to handle the new system.,None
+custom,anger,Why did you think it was appropriate to bring up that embarrassing story in public?,None
+custom,anger,It's maddening that the event organizers didn't consider accessibility needs.,None
+custom,anger,I can't believe you didn't bother to call when you knew I was waiting for your update.,None
+custom,anger,How could they announce layoffs without any prior warning or consideration for our lives?,None
+custom,anger,It's infuriating that the restaurant got my order wrong for the third time this week.,None
+custom,anger,I can't believe you went ahead and made that decision without consulting me first!,None
+custom,anger,It's maddening that they always ignore my emails but expect immediate responses from me.,None
+custom,anger,Why do you always interrupt me when I'm trying to explain something important?,None
+custom,anger,It's outrageous that the meeting was rescheduled again without any regard for our time.,None
+custom,anger,I can't stand how they always leave the office in disarray and expect someone else to clean it up.,None
+custom,anger,Why did you think it was okay to take the car when I clearly needed it for work?,None
+custom,anger,It's frustrating that they never follow through on their promises and leave us hanging.,None
+custom,anger,It's maddening that the contractor keeps delaying the renovation with no valid reason.,None
+custom,anger,Why do you always criticize my cooking without offering to help?,None
+custom,anger,It's infuriating that they refuse to acknowledge the data we provided to support our case.,None
+custom,anger,"I can't believe you forgot to pay the bills again, now we have late fees!",None
+custom,anger,"It's frustrating that the gym is always overcrowded, and there's no proper management.",None
+custom,anger,Why do you always leave the lights on and waste electricity?,None
+custom,anger,It's maddening how they change the project scope without considering the impact on the timeline.,None
+custom,anger,I can't stand how you always have to have the last word in every argument.,None
+custom,anger,It's outrageous that the concert was canceled last minute without any explanation.,None
+custom,anger,Why did you think it was acceptable to use my credit card without permission?,None
+custom,anger,I can't believe you didn't bother to show up for our family gathering.,None
+custom,anger,It's maddening that the teacher didn't even read the assignment before grading it.,None
+custom,anger,Why do you always take the remote and change the channel without asking?,None
+custom,anger,It's frustrating that they never provide the resources we need to complete our tasks.,None
+custom,anger,It's outrageous that the flight was overbooked and I was bumped off despite having a ticket.,None
+custom,anger,Why did you think it was okay to make a mess and leave it for me to clean up?,None
+custom,anger,I can't believe you took my favorite shirt without asking and then ruined it.,None
+custom,anger,It's maddening that the bank lost my paperwork and now I have to start all over.,None
+custom,anger,Why do you always blame me for things that aren't my fault?,None
+custom,anger,It's frustrating that the IT department takes forever to respond to urgent issues.,None
+custom,anger,I can't stand how you always make me feel like I'm not good enough.,None
+custom,anger,It's outrageous that the landlord raised the rent without fixing any of the issues.,None
+custom,anger,Why did you think it was okay to invite people over without telling me?,None
+custom,anger,It's infuriating that they ignore all my suggestions and then complain about the results.,None
+custom,anger,I can't believe you left the party early without even saying goodbye.,None
+custom,anger,It's maddening that the printer is always out of ink and no one bothers to replace it.,None
+custom,anger,Why do you always make excuses instead of just admitting you made a mistake?,None
+custom,anger,It's frustrating that they never provide clear instructions and then blame us for mistakes.,None
+custom,anger,I can't stand how you always compare me to others and make me feel inadequate.,None
+custom,anger,"It's outrageous that the delivery service left my package in the rain, and it got ruined.",None
+custom,anger,Why did you think it was acceptable to use my work computer for personal stuff?,None
+custom,anger,It's infuriating that they always postpone the deadline without considering our schedules.,None
+custom,anger,I can't believe you didn't tell me about the job opening that you knew I was perfect for.,None
+custom,anger,"It's maddening that the website is constantly crashing, and support is unresponsive.",None
+custom,anger,It's frustrating that the manager never acknowledges our hard work and dedication.,None
+custom,anger,I can't stand how you always make snide remarks about my choices in front of others.,None
+custom,anger,How could they approve such a poorly planned project without consulting the team?,None
+custom,anger,It's infuriating that the traffic lights are always malfunctioning during rush hour.,None
+custom,anger,"I can't believe you went on vacation without telling me, leaving me to handle everything alone.",None
+custom,anger,It's maddening that the school board ignored all the parents' concerns about the new policy.,None
+custom,anger,Why do you always leave your laundry for me to fold when you know I'm busy?,None
+custom,anger,It's outrageous that they cut funding for essential programs without considering the consequences.,None
+custom,anger,"I can't stand how they always reschedule meetings last minute, disrupting our entire day.",None
+custom,anger,Why did you think it was okay to eat the leftovers I was saving for lunch?,None
+custom,anger,It's frustrating that the maintenance team never fixes the issues we report in our apartments.,None
+custom,anger,I can't believe you didn't bother to inform me about the change in plans until the last minute.,None
+custom,anger,"It's maddening that the bus service is consistently late, making me miss important appointments.",None
+custom,anger,Why do you always take my tools and never put them back where they belong?,None
+custom,anger,It's infuriating that the event organizers didn't provide any information about the venue change.,None
+custom,anger,It's outrageous that the company implemented a new policy without any employee input.,None
+custom,anger,Why did you decide to move our meeting without checking with the rest of the team?,None
+custom,anger,It's frustrating that the doctor’s office constantly reschedules my appointments without notice.,None
+custom,anger,I can't believe you borrowed my car and returned it with an empty gas tank.,None
+custom,anger,"It's maddening that the library never has the books I need, and their ordering system is so slow.",None
